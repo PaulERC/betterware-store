@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Producto from './Producto'
 
-const url=process.env.REACT_APP_API_KEY;
+const url=process.env.REACT_APP_API_URL;
 
 const Catalogo = () => {
 
